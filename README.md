@@ -1,5 +1,8 @@
 # Mobile Device Usage and User Behavior Analysis
 
+![Mob](https://github.com/user-attachments/assets/0708cb60-6bb1-4e8a-beab-776fbccc6c81)
+
+
 This project provides a comprehensive analysis of user behavior based on mobile device usage patterns. By analyzing factors like screen time, app usage, battery consumption, and data usage, this project helps to understand the behavior of different user segments. The analysis also explores how demographic features such as age and gender are related to user behavior classes. The tool offers multiple visualization options, descriptive analysis, and detailed insights into user behavior.
 
 The project is built using **Streamlit** to offer an interactive and user-friendly dashboard for data exploration and analysis. Users can upload their own datasets to perform analysis and generate visualizations.
